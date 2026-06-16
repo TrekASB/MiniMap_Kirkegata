@@ -1,0 +1,7 @@
+{
+  "title": "MiniMap_Kartverket",
+  "icon": "https://trekasb.github.io/MiniMap_Kirkegata/MiniMap.png",
+  "url": "https://trekasb.github.io/MiniMap_Kirkegata/MiniMap_Kirkegata_UTM32_EPSG25832.html",
+  "description": "MiniMap i 3d vinduet.",
+  "enabled": true
+}
